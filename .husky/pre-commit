@@ -1,0 +1,4 @@
+# yarn tsc --noEmit && yarn eslint src && yarn prettier --write src
+# Disable concurrent to run `check-types` after ESLint in lint-staged
+
+pnpm dlx lint-staged --concurrent false

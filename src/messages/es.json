@@ -1,0 +1,9 @@
+{
+    "Main": {
+        "title": "Mi Chatbot"
+    },
+    "LocaleSwitcher": {
+        "label": "Cambiar idioma",
+        "locale": "{locale, select, es {🇨🇷 Español} en {🇺🇸 English} other {Desconocido}}"
+    }
+}
