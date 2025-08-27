@@ -6,6 +6,7 @@ const Home = async () => {
     return (
         <div className="flex flex-col justify-center items-center">
             <h1>{t('title')}</h1>
+            <p>Somos expertos en el sector automotriz, háganos cualquier pregunta y nosotros le ayudaremos.</p>
             <ChatModal />
         </div>
     );
